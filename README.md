@@ -1,5 +1,5 @@
 # ExoplanetEarth_EiB
-Repository for Lowe et al. (2026). Recommended use: Conda + *Visual Studio Code.* </BR>
+Repository for Lowe et al. (2026). Recommended use: Conda + *Visual Studio Code.* Must have a NASA Earthdata account to stream granules. </BR>
 i) Process NASA PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) data via Earthaccess/Earthdata; </BR>
 ii) Compare to historical Galileo Earth flyby data; </BR>
 iii) Calculate biosignature detectability acrossing resolving powers and signal-to-noise ratios. </BR>
