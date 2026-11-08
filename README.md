@@ -1,5 +1,5 @@
 # ExoplanetEarth_EiB
-Repository for Lowe et al., "Earth as an Exoplanet: From Habitable to Biodiverse". Ran in Visual Studio Code. </BR>
+Repository for Lowe et al., "Earth as an Exoplanet: From Habitable to Biodiverse". *Ran in Visual Studio Code.* </BR>
 </BR>
 i) Process NASA PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) data via Earthaccess/Earthdata; </BR>
 ii) Compare to historical Galileo Earth flyby data; </BR>
