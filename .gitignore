@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Repo-specific
+/data/*cache*
+/data/*.csv*
+/data/galileo/*.pkl*
+/modules/__pycache__
