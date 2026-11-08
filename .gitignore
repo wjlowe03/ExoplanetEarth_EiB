@@ -220,9 +220,10 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Repo-specific
-/data/*cache*
 /data/*.csv*
 /data/galileo/*.pkl*
+/data/sfrefl_cache/*.pkl*
+/data/toa_cache/*.pkl*
 /modules/__pycache__
 
 # Still copy folders with git clone, ignore contents
