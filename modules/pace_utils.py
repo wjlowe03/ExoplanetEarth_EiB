@@ -593,7 +593,7 @@ def plot_biome_spectra(
         ax.set_xlim(*xlim)
 
     if n_plotted > 0:
-        ax.legend(title="Biome", ncol=2, loc="upper left", fontsize=8)
+        ax.legend(title="Biome", ncol=2, loc="upper left", fontsize=6)
 
     else:
         print("No spectra plotted.")

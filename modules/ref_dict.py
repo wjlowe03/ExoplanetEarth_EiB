@@ -4,9 +4,9 @@
 # PACE OCI SFREFL NRT (L2, V3.1) 5/10/26-6/20/26 & cloud_cover=(0,20) for granules (when possible); same for TOA (L1C, V3)
 oci_granules = [
     {"name": "F3_B", "granule": "*20260628T172425*"}, # Region over Argentina, Galileo comparison
-    {"name": "Pyramid", "granule": "*20251020T210415*"}, # Pyramid Lake cyanobacteria 
+    # {"name": "Pyramid", "granule": "*20251020T210415*"}, # Pyramid Lake cyanobacteria 
     {"name": "US_W", "granule": "*20260604T201346*"}, # GSL (UT), Craters (ID) 20251020T210415
-    {"name": "US_W2", "granule": "*20260620T193954*"}, # Zuni Lave Fields (NM), Roger's Dry Lake (CA)
+    # {"name": "US_W2", "granule": "*20260620T193954*"}, # Zuni Lave Fields (NM), Roger's Dry Lake (CA)
     {"name": "US_SE", "granule": "*20260514T175243*"}, # Everglades, swamps, temperate forests
     {"name": "NJ_blooms", "granule": "*20260604T165708*"}, # Coccolithophore/phytoplankton blooms (NJ, USA)
     {"name": "AU_W", "granule": "*20260618T050854*"}, # Shark Bay Stromatolites (AU)
@@ -15,9 +15,9 @@ oci_granules = [
     {"name": "Amazon", "granule": "*20250827T170528*"}, # Amazon rainforest (Brazil; 0-20% cloud, no image available)
     {"name": "Atacama", "granule": "*20260511T173132*"}, # Atacame Desert (Chile)
     {"name": "Sahara", "granule": "*20260619T104836*"}, # Sahara Desert (Libya)
-    {"name": "PA_Ocean1", "granule": "*20260613T203141*"}, # Pacific Ocean (near US W coast)
+    # {"name": "PA_Ocean1", "granule": "*20260613T203141*"}, # Pacific Ocean (near US W coast)
     {"name": "PA_Ocean2", "granule": "*20260613T233819*"}, # Pacific Ocean (open, southern hemisphere, 40% clouds)
-    {"name": "Antarctica", "granule": "*20251031T152523*"}, # Antarctic granules ain't great in general
+    # {"name": "Antarctica", "granule": "*20251031T152523*"}, # Antarctic granules ain't great in general
 ]
 
 # PACE OCI (Sagan/Galileo comparison)

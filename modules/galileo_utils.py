@@ -259,7 +259,7 @@ def plot_radiance_comparison(data_dir):
     ax.set_xlim(0.68, 1.0) 
     ax.set_ylim(0, 10)
 
-    plt.savefig("fig1_panel1.svg", format="svg", bbox_inches="tight")
+    #plt.savefig("fig1_panel1.svg", format="svg", bbox_inches="tight")
     plt.tight_layout()
     plt.show()
 
