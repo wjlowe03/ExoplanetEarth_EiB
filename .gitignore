@@ -224,3 +224,12 @@ __marimo__/
 /data/*.csv*
 /data/galileo/*.pkl*
 /modules/__pycache__
+
+# Still copy folders with git clone, ignore contents
+!toa_cache/
+toa_cache/*
+!toa_cache/.gitignore
+
+!sfrefl_cache/
+sfrefl_cache/*
+!sfrefl_cache/.gitignore
